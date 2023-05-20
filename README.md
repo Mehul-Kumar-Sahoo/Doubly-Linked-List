@@ -18,6 +18,6 @@ Skills: Proteus 7, Digital Electronics, Data Structures
 ## Solution of the Problem Statement
 
 - I have provided the following circuit as the solution for the problem.
-- [The complete approach to the problem statement is given here]()
+- [The complete approach to the problem statement is given here](https://github.com/Mehul-Kumar-Sahoo/Doubly-Linked-List/blob/main/PS1_PART2.pdf)
 
   <img width="821" alt="image" src="https://github.com/Mehul-Kumar-Sahoo/Doubly-Linked-List/assets/93527557/fe208362-b277-4bcd-9516-a99e72e33c74">
